@@ -188,7 +188,7 @@ const Questions: React.FC = () => {
             
             <div className="mb-4">
               <label htmlFor="notes" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-                Notes (Optional)
+                Notes~
               </label>
               <textarea
                 id="notes"
